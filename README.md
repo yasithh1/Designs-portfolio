@@ -52,6 +52,7 @@ The included workflow at `.github/workflows/pages.yml` publishes the site to Git
 ```text
 .
 ├── .github/workflows/pages.yml  # GitHub Pages deployment workflow
+├── assets/headphones-ad.jpg     # Featured headphone poster
 ├── assets/profile.jpg           # Portfolio portrait
 ├── index.html                   # Site markup, styles, and interactions
 └── README.md
